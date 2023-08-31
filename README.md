@@ -35,5 +35,6 @@ Côté administrateur :
 Un projet est validé, suite à un système de vote. Le rôle des utilisateurs est important ici (impacté, expert, bénévole, salarié). 
 Le vote d'un "expert" a plus de poids que le vote d'un "bénévole"
 
-<img width="250" alt="Capture d’écran 2023-08-31 à 11 35 45" src="https://github.com/kb21dz/kb21dz/assets/99490562/03c6cc19-700b-4db7-a8f7-16875611239d">
+<img width="200" alt="Page de connexion" src="https://github.com/kb21dz/kb21dz/assets/99490562/03c6cc19-700b-4db7-a8f7-16875611239d"><img width="200" alt="Page d'accueil" src="https://github.com/kb21dz/kb21dz/assets/99490562/6f54c364-65bb-47a6-8940-db90eb9aa7fe"><img width="200" alt="Page modification de profil" src="https://github.com/kb21dz/kb21dz/assets/99490562/85983c6a-43f4-4cf7-b7b5-e793c9247753"><img width="200" alt="Page de création de projet" src="https://github.com/kb21dz/kb21dz/assets/99490562/3225737c-352c-4f18-a0ca-bb9a53515103"><img width="200" alt="Page Admin" src="https://github.com/kb21dz/kb21dz/assets/99490562/9303b1c2-604b-41a3-80fa-1eb786960f14">
+
 
