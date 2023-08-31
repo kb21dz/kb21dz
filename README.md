@@ -14,7 +14,7 @@ ________________________________________________________________________________
 MES PROJETS
 
 ________________________________________________________________________________________________
-![logo-makesense-dark](https://github.com/kb21dz/kb21dz/assets/99490562/ea0c8cee-e209-4028-b259-cdd49c81647e)
+<img width="200" alt="Capture d’écran 2023-08-31 à 11 38 03" src="https://github.com/kb21dz/kb21dz/assets/99490562/e2129479-a779-40ca-ad8c-57d7f4376fa3">
 
 
 Makesense est une organisation internationale créée en 2010. Elle accompagne les entreprises, institutions et associations à devenir toujours plus durables, engagées et résilientes.
@@ -35,5 +35,5 @@ Côté administrateur :
 Un projet est validé, suite à un système de vote. Le rôle des utilisateurs est important ici (impacté, expert, bénévole, salarié). 
 Le vote d'un "expert" a plus de poids que le vote d'un "bénévole"
 
-<img width="500" alt="Capture d’écran 2023-08-31 à 11 35 45" src="https://github.com/kb21dz/kb21dz/assets/99490562/03c6cc19-700b-4db7-a8f7-16875611239d">
+<img width="250" alt="Capture d’écran 2023-08-31 à 11 35 45" src="https://github.com/kb21dz/kb21dz/assets/99490562/03c6cc19-700b-4db7-a8f7-16875611239d">
 
