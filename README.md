@@ -23,9 +23,9 @@ Son objectif est de promouvoir des projets écologiques et sociales.
 Projet
 ------
 Pour promouvoir ces projets, Makesense a besoin d'une plateforme intranet qui permet :
-  _ Créer des projets
-  _ Donner son avis sur un projet déjà existant
-  _ Voter pour ou contre un projet
+ _ Créer des projets
+ * Donner son avis sur un projet déjà existant
+ + Voter pour ou contre un projet
 
 Côté administrateur :
   _ Gérer les utilisateurs
