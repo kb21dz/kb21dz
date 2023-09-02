@@ -1,7 +1,7 @@
-Développeur web 🧑🏻‍💻
+**Développeur web** 🧑🏻‍💻
 ---------------
 
-À PROPOS DE MOI 
+**À PROPOS DE MOI** 
 ---------------
 
 ![image](https://github.com/kb21dz/kb21dz/assets/99490562/745fbae3-c50c-4808-8cc3-dbfe9263d86b)
@@ -11,8 +11,7 @@ Je suis un développeur web passionné et titulaire d’un titre de DWWM. Je sui
 
 ________________________________________________________________________________________________
 
-MES PROJETS
-
+**MES PROJETS**
 ________________________________________________________________________________________________
 <img width="200" alt="Capture d’écran 2023-08-31 à 11 38 03" src="https://github.com/kb21dz/kb21dz/assets/99490562/e2129479-a779-40ca-ad8c-57d7f4376fa3">
 
@@ -20,8 +19,8 @@ ________________________________________________________________________________
 Makesense est une organisation internationale créée en 2010. Elle accompagne les entreprises, institutions et associations à devenir toujours plus durables, engagées et résilientes.
 Son objectif est de promouvoir des projets écologiques et sociales.
 
-Projet
-------
+Fonctionnalités
+---------------
 Pour promouvoir ces projets, Makesense a besoin d'une plateforme intranet qui permet :
  - Créer des projets
  - Donner son avis sur un projet déjà existant
