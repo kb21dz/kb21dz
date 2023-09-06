@@ -48,10 +48,10 @@ Un accès également à une rubrique "Nutrition" avec des recettes détaillées 
 Voici un aperçu : <br /> <br />
 <p align="left" style="display: flex">
    <img src="https://github.com/kb21dz/kb21dz/assets/99490562/9ac0f488-c595-40ea-be3b-dc998ab7cd78" width="200" height="350">
-  <img width="180" alt="home" src="https://github.com/kb21dz/kb21dz/assets/99490562/606a2436-6023-4051-94cc-18c091cbe944">
-  <img width="180" alt="programs" src="https://github.com/kb21dz/kb21dz/assets/99490562/076f272d-d450-4ee5-b213-c600430f3a67">
-  <img width="180" alt="dashbord" src="https://github.com/kb21dz/kb21dz/assets/99490562/422b6b62-4afb-4814-9dac-1fc07da8e8f6">
-  <img width="180" alt="nutrition" src="https://github.com/kb21dz/kb21dz/assets/99490562/09e92c68-b0f3-4733-beaa-6fa53ece3551">
+  <img width="150" alt="home" src="https://github.com/kb21dz/kb21dz/assets/99490562/606a2436-6023-4051-94cc-18c091cbe944">
+  <img width="150" alt="programs" src="https://github.com/kb21dz/kb21dz/assets/99490562/076f272d-d450-4ee5-b213-c600430f3a67">
+  <img width="150" alt="dashbord" src="https://github.com/kb21dz/kb21dz/assets/99490562/422b6b62-4afb-4814-9dac-1fc07da8e8f6">
+  <img width="150" alt="nutrition" src="https://github.com/kb21dz/kb21dz/assets/99490562/09e92c68-b0f3-4733-beaa-6fa53ece3551">
 <p/>
 
  
